@@ -38,7 +38,7 @@
 
 ### 🧠 En constante aprendizaje
 
-- ☁️ **AMazon Web Services**
+- ☁️ **Amazon Web Services**
 - 📊 **Optimización de rendimiento Frontend**
 - 🎨 **Diseño accesible y responsive**
 - 🔐 **Seguridad en aplicaciones web**
