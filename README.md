@@ -38,9 +38,11 @@
 
 ### 🧠 En constante aprendizaje
 
-
 - ☁️ **AMazon Web Services**
 - 📊 **Optimización de rendimiento Frontend**
+- 🎨 **Diseño accesible y responsive**
+- 🔐 **Seguridad en aplicaciones web**
+
 
 
 🧠 _“Si puedes imaginarlo, lo puedes programar. - Alejandro Taboada Sánchez(ProgramaciónATS) ”_
