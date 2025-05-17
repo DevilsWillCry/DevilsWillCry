@@ -40,8 +40,6 @@
 
 
 - ☁️ **AMazon Web Services**
-- 🚀 **Next.js**
-- 🧩 **Angular**
 - 📊 **Optimización de rendimiento Frontend**
 
 
