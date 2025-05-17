@@ -2,7 +2,7 @@
 
 
 <!--  -->
-<img align="right" width="250px" alt="Programming Memphis Corporate" src="https://cdni.iconscout.com/illustration/premium/thumb/employee-attending-an-online-meeting-illustration-download-in-svg-png-gif-file-formats--digital-video-conference-business-call-corporate-pack-illustrations-10974740.png" />
+<img align="right" width="200px" alt="Programming Memphis Corporate" src="https://cdni.iconscout.com/illustration/premium/thumb/employee-attending-an-online-meeting-illustration-download-in-svg-png-gif-file-formats--digital-video-conference-business-call-corporate-pack-illustrations-10974740.png" />
 
 
 &nbsp;***Acerca de mí***
