@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hola , soy Miguel Angel!  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-🧠_“Si puedes imaginarlo, lo puedes programar. - Alejandro Taboada Sánchez(ProgramaciónATS) ”_
+🧠 “Si puedes imaginarlo, lo puedes programar. - Alejandro Taboada Sánchez(ProgramaciónATS) ”
 
 <!--  -->
 <img align="right" width="200px" alt="Programming Memphis Corporate" src="https://cdni.iconscout.com/illustration/premium/thumb/employee-attending-an-online-meeting-illustration-download-in-svg-png-gif-file-formats--digital-video-conference-business-call-corporate-pack-illustrations-10974740.png" />
