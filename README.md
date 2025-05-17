@@ -59,6 +59,6 @@
 
 <h2>Estadísticas de Github: </h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=DevilsWillCry&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=DevilsWillCry&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=DevilsWillCry&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DevilsWillCry)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=DevilsWillCry&theme=material-palenight)](https://github.com/DevilsWillCry)
 </div>
